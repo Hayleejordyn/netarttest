@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body {
+    min-height: 100%;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(images/90.jpeg);
+}body p {
+    color: #FFFFFF;
+}
